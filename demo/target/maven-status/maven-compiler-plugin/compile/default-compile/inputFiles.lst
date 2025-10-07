@@ -1,0 +1,8 @@
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/DemoApplication.java
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/controller/ProductController.java
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/dto/CreateProductDTO.java
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/dto/UpdateProductDTO.java
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/entity/Product.java
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/mapper/CreateProductMapper.java
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/repository/ProductRepository.java
+/Users/lucasferreira/Downloads/demo/src/main/java/com/cadastroproduto/demo/service/ProductService.java
